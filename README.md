@@ -12,12 +12,13 @@ Happy Hacking!
 - [CheatSheets](#cheatsheets)
 - [Postman](#postman)
 - [Examples](#examples)
+- [Datasets](#datasets)
 
 ## Getting Started
 
 ### Amadeus for Developers APIs
 
-The best way to understand how to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
+The best way to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
 
 #### tl;dr
 
@@ -84,7 +85,7 @@ We normally bring some printed copies to the Hackathons. For your convenience, h
 
 Let's save the planet!
 
-## Postman Collection
+## Postman
 
 ### Amadeus for Developers
 
@@ -92,13 +93,40 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 ## Examples
 
-All SDKs `README` files contains sample codes. More Python snipets:
-https://github.com/amadeus4dev/samples-python
+- All SDKs `README` files contain sample codes. We have uploaded more [Python snipets](https://github.com/amadeus4dev/samples-python) to Github.
+- An [android application](https://github.com/amadeus4dev/android-example) using the Flight APIs.
+- Useful [AVUXI demos](https://github.com/avuxi/AVAPIDataExamples) written in Python, Javascript, Node and C#.
 
-An android application using the Flight APIs:
-https://github.com/amadeus4dev/android-example
+## Datasets
 
-AVUXI demos in Python, Javascript, Node and C#:
-https://github.com/avuxi/AVAPIDataExamples
+### Amadeus for Developers
+
+During the Hackathon you'll use the `Testing environment`, which means that our APIs are using mostly cache data:
+
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for Flight Inspiration Search and Flight Low-Fare Search
+
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for Fight Most [Searched|Booked|Traveled] Destinations and Flight Busiest Traveling Period.
+
+- The following table contains a list of valid Airlines for Flight Check-in Links:
+
+| Airline | IATA Code |
+| ------- | --------- |
+| American Airlines | AA |
+| Lufthansa | LH |
+| Iberia | IB |
+| EasyJet | U2 |
+| British Airways | BA |
+| Air France | AF |
+| Delta | DL |
+| United Airlines | UA |
+| Emirates | EK |
+| Nippon Airlines | NH |
+
+- Airport Nearest Relevant: United States, Canada, Spain, United Kingdom, Germany, India
+
+- Airline Code Lookup contains almost all airlines.
+
+- The content of Hotel Search comes directly from the Hotel providers, so the content might change dynamically.
+
 
 
