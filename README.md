@@ -1,2 +1,101 @@
-# hackathon-starter
-Useful information for using Amadeus for Developers APIs in Hackathons
+# South Summit Hackathon Starter
+
+Have you been in a Hackathon in the past? We know time flies that´s why we are coming to the rescue!
+
+# Table of Contents
+
+- [Getting Started](#getting-started)
+- [Documentation]($documentation)
+- [APIs](#apis)
+- [SDKs](#sdks)
+- [CheatSheets](#cheatsheets)
+- [Examples](#examples)
+-
+## Getting Started
+
+### Amadeus for Developers APIs
+
+Best way to understand how to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
+
+In a nutshell:
+
+1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
+2. Complete the form, using a valid email address and click on `Create account` button. An automatic confirmation email is sent to the email address you registered.
+3. In the confirmation email you receive, click on `Confirm my account`.
+
+Once registered, you need to get your API keys. In order to understand how authentication works, please refer to our [authentication guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md).
+
+### AVUXI APIs
+
+The API keys are distributed manually on demand. Feel free to request one!
+
+## Documentation
+
+### Amadeus for Developers APIs
+
+
+### AVUXI APIs
+
+https://admin.avuxi.com/api
+
+## APIs 
+
+### Amadeus for Developers APIs
+
+| Endpoint                                       | Answers to...                                                                |
+| ---------------------------------------------- | ---------------------------------------------------------------------------- |
+| /v1/shopping/flight-offers                     | I know where when I want to fly. What are the best flight deals?             |
+| /v1/shopping/flight-destinations               | Where can I fly from/to Paris in the next months for 400 EUR?                |
+| /v1/shopping/flight-dates                      | When is the cheapest date to fly to Madrid from London?                      |
+| /v1/travel/analytics/fare-searches             | Which were the most searched destinations from Nice in June 2017?            |
+| /v1/travel/analytics/air-traffic/booked        | Where were the most number of bookings made to from Madrid last July?        |
+| /v1/travel/analytics/air-traffic/traveled      | Where were people flying to the most from London in September 2017?          |
+| /v1/travel/analytics/air-traf c/busiest-period | What was the busiest period for Nice based on either arrivals or departures? |
+| /v2/reference-data/urls/checkin-links          | What is the URL to my online check-in?                                       |
+| /v1/reference-data/locations/airports          | What relevant airports are there around a specific location?                 |
+| /v1/reference-data/locations                   | Which cities and/or airports start with ‘PA’ characters?                     |
+| /v1/reference-data/airlines                    | Which airline has IATA code BA?                                              |
+| /v1/shopping/hotel-offers                      | What are the best hotel offers during my trip to London?                     |
+
+### AVUXI APIs
+
+| Endpoint                      | Description                                                                     |
+| ----------------------------- | ------------------------------------------------------------------------------- |
+| /v1/GetLocationScoresByRadius | Return the Location Scores for the selected location                            |
+| /v1/GetHeatMapVectorial       | Return the polygons for the category and area (tile) selected.                  |
+| /v1/GetLocationScore          | Return the Location Score (0 to 99) for each category for the selected location | 
+| /v1/GetPointsOfInterestByBox  | Return Points of Interest (POIs) of selected areas                              |
+| /v1/GetMetroLinesByCityCenter | Return Stops and Metro Lines for any coordinate of selected cities              |
+
+## SDKs
+
+Because there is life beyond `curl`.
+
+- [Python](https://github.com/amadeus4dev/amadeus-python)
+- [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
+- [Node](https://github.com/amadeus4dev/amadeus-node)
+- [Java](https://github.com/amadeus4dev/amadeus-java)
+
+We would be more than happy to receive your `pull requets` :-)
+
+## Cheat Sheets
+
+We normally bring some printed copies to the Hackathons. For your convenience, here you have the pdf version:
+
+- [Amadeus for Developers Chet Sheet](../cheatsheets/amadeus4dev.pdf)
+- [Avuxi Cheat Sheet](../cheatsheets/avuxi.pdf)
+
+Let's save the planet!
+
+## Examples
+
+Some Python snipets:
+https://github.com/amadeus4dev/samples-python
+
+An android application using the Flight APIs:
+https://github.com/amadeus4dev/android-example
+
+AVUXI demos in Python, Javascript, Node and C#:
+https://github.com/avuxi/AVAPIDataExamples
+
+
