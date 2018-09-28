@@ -1,23 +1,24 @@
 # South Summit Hackathon Starter
 
-Have you been in a Hackathon in the past? We know time flies that´s why we are coming to the rescue!
+Have you been in a Hackathon in the past? Time flies! We have prepared this quick reference document for you to get familiar with our APIs.
+
+Happy Hacking!
 
 # Table of Contents
 
 - [Getting Started](#getting-started)
-- [Documentation]($documentation)
 - [APIs](#apis)
 - [SDKs](#sdks)
 - [CheatSheets](#cheatsheets)
 - [Examples](#examples)
--
+
 ## Getting Started
 
 ### Amadeus for Developers APIs
 
-Best way to understand how to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
+The best way to understand how to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
 
-In a nutshell:
+#### tl;dr
 
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
 2. Complete the form, using a valid email address and click on `Create account` button. An automatic confirmation email is sent to the email address you registered.
@@ -29,33 +30,26 @@ Once registered, you need to get your API keys. In order to understand how authe
 
 The API keys are distributed manually on demand. Feel free to request one!
 
-## Documentation
-
-### Amadeus for Developers APIs
-
-
-### AVUXI APIs
-
-https://admin.avuxi.com/api
+Don't miss [this guide](https://admin.avuxi.com/api) to get started!
 
 ## APIs 
 
 ### Amadeus for Developers APIs
 
-| Endpoint                                       | Answers to...                                                                |
-| ---------------------------------------------- | ---------------------------------------------------------------------------- |
-| /v1/shopping/flight-offers                     | I know where when I want to fly. What are the best flight deals?             |
-| /v1/shopping/flight-destinations               | Where can I fly from/to Paris in the next months for 400 EUR?                |
-| /v1/shopping/flight-dates                      | When is the cheapest date to fly to Madrid from London?                      |
-| /v1/travel/analytics/fare-searches             | Which were the most searched destinations from Nice in June 2017?            |
-| /v1/travel/analytics/air-traffic/booked        | Where were the most number of bookings made to from Madrid last July?        |
-| /v1/travel/analytics/air-traffic/traveled      | Where were people flying to the most from London in September 2017?          |
-| /v1/travel/analytics/air-traf c/busiest-period | What was the busiest period for Nice based on either arrivals or departures? |
-| /v2/reference-data/urls/checkin-links          | What is the URL to my online check-in?                                       |
-| /v1/reference-data/locations/airports          | What relevant airports are there around a specific location?                 |
-| /v1/reference-data/locations                   | Which cities and/or airports start with ‘PA’ characters?                     |
-| /v1/reference-data/airlines                    | Which airline has IATA code BA?                                              |
-| /v1/shopping/hotel-offers                      | What are the best hotel offers during my trip to London?                     |
+| Endpoint                                        | Answers to...                                                                |
+| ----------------------------------------------- | ---------------------------------------------------------------------------- |
+| [/v1/shopping/flight-offers](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where when I want to fly. What are the best flight deals? |
+| [/v1/shopping/flight-destinations](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from/to Paris in the next months for 400 EUR? |
+| /v1/shopping/flight-dates                       | When is the cheapest date to fly to Madrid from London?                      |
+| /v1/travel/analytics/fare-searches              | Which were the most searched destinations from Nice in June 2017?            |
+| /v1/travel/analytics/air-traffic/booked         | Where were the most number of bookings made to from Madrid last July?        |
+| /v1/travel/analytics/air-traffic/traveled       | Where were people flying to the most from London in September 2017?          |
+| /v1/travel/analytics/air-traffic/busiest-period | What was the busiest period for Nice based on either arrivals or departures? |
+| /v2/reference-data/urls/checkin-links           | What is the URL to my online check-in?                                       |
+| /v1/reference-data/locations/airports           | What relevant airports are there around a specific location?                 |
+| /v1/reference-data/locations                    | Which cities and/or airports start with ‘PA’ characters?                     |
+| /v1/reference-data/airlines                     | Which airline has IATA code BA?                                              |
+| /v1/shopping/hotel-offers                       | What are the best hotel offers during my trip to London?                     |
 
 ### AVUXI APIs
 
@@ -82,14 +76,14 @@ We would be more than happy to receive your `pull requets` :-)
 
 We normally bring some printed copies to the Hackathons. For your convenience, here you have the pdf version:
 
-- [Amadeus for Developers Chet Sheet](../cheatsheets/amadeus4dev.pdf)
-- [Avuxi Cheat Sheet](../cheatsheets/avuxi.pdf)
+- [Amadeus for Developers Chet Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf)
+- [Avuxi Cheat Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/avuxi.pdf)
 
 Let's save the planet!
 
 ## Examples
 
-Some Python snipets:
+All SDKs `README` files contains sample codes. More Python snipets:
 https://github.com/amadeus4dev/samples-python
 
 An android application using the Flight APIs:
