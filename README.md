@@ -1,4 +1,4 @@
-# South Summit Hackathon Starter
+# Hackathon Starter
 
 Have you been in a Hackathon in the past? Time flies! We have prepared this quick reference document for you to get familiar with our APIs.
 
@@ -10,6 +10,7 @@ Happy Hacking!
 - [APIs](#apis)
 - [SDKs](#sdks)
 - [CheatSheets](#cheatsheets)
+- [Postman](#postman)
 - [Examples](#examples)
 
 ## Getting Started
@@ -34,34 +35,36 @@ Don't miss [this guide](https://admin.avuxi.com/api) to get started!
 
 ## APIs 
 
-### Amadeus for Developers APIs
+### Amadeus for Developers
 
-| Endpoint                                        | Answers to...                                                                |
+| API | Answers to...                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| [/v1/shopping/flight-offers](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where when I want to fly. What are the best flight deals? |
-| [/v1/shopping/flight-destinations](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from/to Paris in the next months for 400 EUR? |
-| /v1/shopping/flight-dates                       | When is the cheapest date to fly to Madrid from London?                      |
-| /v1/travel/analytics/fare-searches              | Which were the most searched destinations from Nice in June 2017?            |
-| /v1/travel/analytics/air-traffic/booked         | Where were the most number of bookings made to from Madrid last July?        |
-| /v1/travel/analytics/air-traffic/traveled       | Where were people flying to the most from London in September 2017?          |
-| /v1/travel/analytics/air-traffic/busiest-period | What was the busiest period for Nice based on either arrivals or departures? |
-| /v2/reference-data/urls/checkin-links           | What is the URL to my online check-in?                                       |
-| /v1/reference-data/locations/airports           | What relevant airports are there around a specific location?                 |
-| /v1/reference-data/locations                    | Which cities and/or airports start with ‘PA’ characters?                     |
-| /v1/reference-data/airlines                     | Which airline has IATA code BA?                                              |
-| /v1/shopping/hotel-offers                       | What are the best hotel offers during my trip to London?                     |
+| [Flight Low-fare Search](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where and when I want to fly. What are the best flight deals? |
+| [Flight Inspiration Search](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from/to Paris in the next months for 400 EUR? |
+| [Flight Cheapest Date Search](https://developers.amadeus.com/self-service/category/203/api-doc/5/api-docs-and-example/10003) | When is the cheapest date to fly to Madrid from London? |
+| [Fight Most Searched Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/6/api-docs-and-example/10004) | Which were the most searched destinations from Nice in June 2017?            |
+| [Flight Most Booked Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/27/api-docs-and-example/10011) | Where were the most number of bookings made to from Madrid last July?        |
+| [Flight Most Traveled Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/7/api-docs-and-example/10005) | Where were people flying to the most from London in September 2017?          |
+| [Flight Busiest Traveling Period](https://developers.amadeus.com/self-service/category/203/api-doc/28/api-docs-and-example/10012) | What was the busiest period for Nice based on either arrivals or departures? |
+| [Flight Check-in Links](https://developers.amadeus.com/self-service/category/203/api-doc/8/api-docs-and-example/10006) | What is the URL to my online check-in?                                       |
+| [Airport Nearest Relevant](https://developers.amadeus.com/self-service/category/203/api-doc/9/api-docs-and-example/10007) | What relevant airports are there around a specific location?                 |
+| [Airport & City Search](https://developers.amadeus.com/self-service/category/203/api-doc/10/api-docs-and-example/10008) | Which cities and/or airports start with ‘PA’ characters?                     |
+| [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
+| [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10009) | What are the best hotel offers during my trip to London?   |
 
-### AVUXI APIs
+### AVUXI
 
-| Endpoint                      | Description                                                                     |
+| API | Description                                                                     |
 | ----------------------------- | ------------------------------------------------------------------------------- |
-| /v1/GetLocationScoresByRadius | Return the Location Scores for the selected location                            |
-| /v1/GetHeatMapVectorial       | Return the polygons for the category and area (tile) selected.                  |
-| /v1/GetLocationScore          | Return the Location Score (0 to 99) for each category for the selected location | 
-| /v1/GetPointsOfInterestByBox  | Return Points of Interest (POIs) of selected areas                              |
-| /v1/GetMetroLinesByCityCenter | Return Stops and Metro Lines for any coordinate of selected cities              |
+| [Get Location Scores By Radius](https://admin.avuxi.com/api) | Return the Location Scores for the selected location                            |
+| [Heat Map Vectors](https://admin.avuxi.com/api)      | Return the polygons for the category and area (tile) selected.                  |
+| [Nearby Info](https://admin.avuxi.com/api) | Return the Location Score (0 to 99) for each category for the selected location | 
+| [Points Of Interest](https://admin.avuxi.com/api)  | Return Points of Interest (POIs) of selected areas                              |
+| [Transport](https://admin.avuxi.com/api) | Return Stops and Metro Lines for any coordinate of selected cities              |
 
 ## SDKs
+
+### Amadeus for Developers
 
 Because there is life beyond `curl`.
 
@@ -80,6 +83,12 @@ We normally bring some printed copies to the Hackathons. For your convenience, h
 - [Avuxi Cheat Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/avuxi.pdf)
 
 Let's save the planet!
+
+## Postman Collection
+
+### Amadeus for Developers
+
+If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public postman collection](https://documenter.getpostman.com/view/2672636/RWEcPfuJ).
 
 ## Examples
 
