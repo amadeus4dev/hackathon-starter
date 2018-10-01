@@ -93,7 +93,7 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 ## Examples
 
-- All SDKs `README` files contain sample codes. We have uploaded more [Python snipets](https://github.com/amadeus4dev/samples-python) to Github.
+- All SDK `README` files contain sample codes. We have uploaded more [Python snipets](https://github.com/amadeus4dev/samples-python) to Github.
 - An [android application](https://github.com/amadeus4dev/android-example) using the Flight APIs.
 - Useful [AVUXI demos](https://github.com/avuxi/AVAPIDataExamples) written in Python, Javascript, Node and C#.
 
@@ -107,13 +107,11 @@ During the Hackathon you'll use the `Testing environment`, which means that our 
 
 - [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for Fight Most [Searched|Booked|Traveled] Destinations and Flight Busiest Traveling Period.
 
-- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid Airlines for Flight Check-in Links:
+- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid Airlines for Flight Check-in Links.
 
-- Airport Nearest Relevant: United States, Canada, Spain, United Kingdom, Germany, India
+- Airport Nearest Relevant: United States, Canada, Spain, United Kingdom, Germany, India.
 
 - Airline Code Lookup contains almost all airlines.
 
 - The content of Hotel Search comes directly from the Hotel providers, so the content might change dynamically.
-
-
 
