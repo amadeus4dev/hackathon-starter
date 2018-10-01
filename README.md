@@ -1,6 +1,6 @@
 # Hackathon Starter
 
-Have you been in a Hackathon in the past? Time flies! We have prepared this quick reference document for you to get familiar with our APIs.
+Have you been in a hackathon in the past? Time flies! We have prepared this quick reference document for you to get familiar with our APIs.
 
 Happy Hacking!
 
@@ -16,17 +16,13 @@ Happy Hacking!
 
 ## Getting Started
 
-### Amadeus for Developers APIs
-
-The best way to get started is by reading our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md)
-
-#### tl;dr
+### Amadeus APIs
 
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
 2. Complete the form, using a valid email address and click on `Create account` button. An automatic confirmation email is sent to the email address you registered.
 3. In the confirmation email you receive, click on `Confirm my account`.
 
-Once registered, you need to get your API keys. In order to understand how authentication works, please refer to our [authentication guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md).
+Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key.
 
 ### AVUXI APIs
 
@@ -36,7 +32,7 @@ Don't miss [this guide](https://admin.avuxi.com/api) to get started!
 
 ## APIs 
 
-### Amadeus for Developers
+### Amadeus
 
 | API | Answers to...                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -65,7 +61,7 @@ Don't miss [this guide](https://admin.avuxi.com/api) to get started!
 
 ## SDKs
 
-### Amadeus for Developers
+### Amadeus
 
 Because there is life beyond `curl`.
 
@@ -78,7 +74,7 @@ We would be more than happy to receive your `pull requets` :-)
 
 ## Cheat Sheets
 
-We normally bring some printed copies to the Hackathons. For your convenience, here you have the pdf version:
+We normally bring some printed copies to the hackathons. For your convenience, here you have the pdf version:
 
 - [Amadeus for Developers Chet Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf)
 - [Avuxi Cheat Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/avuxi.pdf)
@@ -87,7 +83,7 @@ Let's save the planet!
 
 ## Postman
 
-### Amadeus for Developers
+### Amadeus
 
 If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public postman collection](https://documenter.getpostman.com/view/2672636/RWEcPfuJ).
 
@@ -99,19 +95,19 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 ## Datasets
 
-### Amadeus for Developers
+### Amadeus
 
-During the Hackathon you'll use the `Testing environment`, which means that our APIs are using mostly cache data:
+During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data:
 
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for Flight Inspiration Search and Flight Cheapest Date Search
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for `Flight Inspiration Search` and `Flight Cheapest Date Search`.
 
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for Fight Most [Searched|Booked|Traveled] Destinations and Flight Busiest Traveling Period.
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for `Fight Most [Searched|Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
 
-- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid Airlines for Flight Check-in Links.
+- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid airlines for `Flight Check-in Links`.
 
-- Airport Nearest Relevant: United States, Canada, Spain, United Kingdom, Germany, India.
+- `Airport Nearest Relevant` contains data from United States, Canada, Spain, United Kingdom, Germany and India.
 
-- Airline Code Lookup contains almost all airlines.
+- `Airline Code Lookup` contains almost all airlines.
 
-- The content of Hotel Search comes directly from the Hotel providers, so the content might change dynamically.
+- The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically.
 
