@@ -103,24 +103,11 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 During the Hackathon you'll use the `Testing environment`, which means that our APIs are using mostly cache data:
 
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for Flight Inspiration Search and Flight Low-Fare Search
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for Flight Inspiration Search and Flight Cheapest Date Search
 
 - [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for Fight Most [Searched|Booked|Traveled] Destinations and Flight Busiest Traveling Period.
 
-- The following table contains a list of valid Airlines for Flight Check-in Links:
-
-| Airline | IATA Code |
-| ------- | --------- |
-| American Airlines | AA |
-| Lufthansa | LH |
-| Iberia | IB |
-| EasyJet | U2 |
-| British Airways | BA |
-| Air France | AF |
-| Delta | DL |
-| United Airlines | UA |
-| Emirates | EK |
-| Nippon Airlines | NH |
+- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid Airlines for Flight Check-in Links:
 
 - Airport Nearest Relevant: United States, Canada, Spain, United Kingdom, Germany, India
 
