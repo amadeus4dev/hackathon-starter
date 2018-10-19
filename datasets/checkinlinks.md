@@ -2,21 +2,18 @@
 
 | Airline | IATA Code |
 | ------- | --------- |
-| American Airlines | AA |
-| Lufthansa | LH |
-| Iberia | IB |
-| EasyJet | U2 |
-| British Airways | BA |
+| Air Asia | AK |
 | Air France | AF |
+| Air India | AI |
+| British Airways | BA |
 | Delta | DL |
-| United Airlines | UA |
+| EasyJet | U2 |
 | Emirates | EK |
-| Nippon Airlines | NH |
+| Go Air | G8 |
+| Iberia | IB |
 | Indigo | 6E |
 | Jet Airways | 9W |
+| Lufthansa | LH |
+| Nippon Airlines | NH |
 | Spicejet | SG |
-| Air India | AI |
-| Go Air | G8 |
-| Air Asia | AK |
-
-
+| United Airlines | UA |
