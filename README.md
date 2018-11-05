@@ -16,23 +16,13 @@ Happy Hacking!
 
 ## Getting Started
 
-### Amadeus APIs
-
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
 2. Complete the form, using a valid email address and click on `Create account` button. An automatic confirmation email is sent to the email address you registered.
 3. In the confirmation email you receive, click on `Confirm my account`.
 
 Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key.
 
-### AVUXI APIs
-
-The API keys are distributed manually on demand. Feel free to request one!
-
-Don't miss [this guide](https://admin.avuxi.com/api) to get started!
-
 ## APIs 
-
-### Amadeus
 
 | API | Answers to...                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -49,19 +39,7 @@ Don't miss [this guide](https://admin.avuxi.com/api) to get started!
 | [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
 | [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10009) | What are the best hotel offers during my trip to London?   |
 
-### AVUXI
-
-| API | Description                                                                     |
-| ----------------------------- | ------------------------------------------------------------------------------- |
-| [Get Location Scores By Radius](https://admin.avuxi.com/api) | Return the Location Scores for the selected location                            |
-| [Heat Map Vectors](https://admin.avuxi.com/api)      | Return the polygons for the category and area (tile) selected.                  |
-| [Nearby Info](https://admin.avuxi.com/api) | Return the Location Score (0 to 99) for each category for the selected location | 
-| [Points Of Interest](https://admin.avuxi.com/api)  | Return Points of Interest (POIs) of selected areas                              |
-| [Transport](https://admin.avuxi.com/api) | Return Stops and Metro Lines for any coordinate of selected cities              |
-
 ## SDKs
-
-### Amadeus
 
 Because there is life beyond `curl`.
 
@@ -72,18 +50,13 @@ Because there is life beyond `curl`.
 
 We would be more than happy to receive your `pull requets` :-)
 
-## Cheat Sheets
+## Cheat Sheet
 
-We normally bring some printed copies to the hackathons. For your convenience, here you have the pdf version:
-
-- [Amadeus for Developers Chet Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf)
-- [Avuxi Cheat Sheet](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/avuxi.pdf)
+We normally bring some printed copies to the hackathons. For your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
 
 Let's save the planet!
 
 ## Postman
-
-### Amadeus
 
 If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public postman collection](https://documenter.getpostman.com/view/2672636/RWEcPfuJ).
 
@@ -91,11 +64,8 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 - All SDK `README` files contain sample codes. We have uploaded more [Python snipets](https://github.com/amadeus4dev/samples-python) to Github.
 - An [android application](https://github.com/amadeus4dev/android-example) using the Flight APIs.
-- Useful [AVUXI demos](https://github.com/avuxi/AVAPIDataExamples) written in Python, Javascript, Node and C#.
 
 ## Datasets
-
-### Amadeus
 
 During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data:
 
