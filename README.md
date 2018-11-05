@@ -9,7 +9,7 @@ Happy Hacking!
 - [Getting Started](#getting-started)
 - [APIs](#apis)
 - [SDKs](#sdks)
-- [CheatSheets](#cheatsheets)
+- [Cheat Sheet](#cheatsheets)
 - [Postman](#postman)
 - [Examples](#examples)
 - [Datasets](#datasets)
