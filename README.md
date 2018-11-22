@@ -62,8 +62,8 @@ If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to s
 
 ## Examples
 
-- All SDK `README` files contain sample codes. We have uploaded more [Python snipets](https://github.com/amadeus4dev/samples-python) to Github.
-- An [android application](https://github.com/amadeus4dev/android-example) using the Flight APIs.
+- All SDK `README` files contain sample codes.
+- You can find [examples](https://developers.amadeus.com/self-service/apis-docs/code-samples) in our Portal
 
 ## Datasets
 
