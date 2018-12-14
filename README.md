@@ -75,7 +75,7 @@ During the hackathon you'll use the `Test environment`, which means that our API
 
 - The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid airlines for `Flight Check-in Links`.
 
-- `Airport Nearest Relevant` & `Airport & City Search` contain data from United States, Canada, Spain, United Kingdom, Germany and India.
+- `Airport Nearest Relevant` & `Airport & City Search` contain data from United States, Spain, United Kingdom, Germany and India.
 
 - `Airline Code Lookup` contains almost all airlines.
 
