@@ -1,4 +1,4 @@
-# Flight Inspiration and Flight Low-Fare Search
+# Flight Inspiration and Flight Cheapest Date Search
 
 |Origin | Destination |
 |------ | ----------- |
