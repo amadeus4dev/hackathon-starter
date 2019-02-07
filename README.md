@@ -13,6 +13,8 @@ Happy Hacking!
 - [Postman](#postman)
 - [Examples](#examples)
 - [Datasets](#datasets)
+- [Contributing](#contributing)
+
 
 ## Getting Started
 
@@ -83,4 +85,4 @@ During the hackathon you'll use the `Test environment`, which means that our API
 
 ## Contributing
 
-If something is wrong, confusing or you miss information, please let us know. Send your `pull request` and drop us an [email](mailto:developers@amadeus.com).
+If something is wrong, confusing or you miss information, please let us know. Send your `pull request` or drop us an [email](mailto:developers@amadeus.com).
