@@ -27,17 +27,17 @@ Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/mas
 | API | Answers to...                                                                |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Flight Low-fare Search](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where and when I want to fly. What are the best flight deals? |
-| [Flight Inspiration Search](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from/to Paris in the next months for 400 EUR? |
-| [Flight Cheapest Date Search](https://developers.amadeus.com/self-service/category/203/api-doc/5/api-docs-and-example/10003) | When is the cheapest date to fly to Madrid from London? |
-| [Fight Most Searched Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/6/api-docs-and-example/10004) | Which were the most searched destinations from Nice in June 2017?            |
-| [Flight Most Booked Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/27/api-docs-and-example/10011) | Where were the most number of bookings made to from Madrid last July?        |
-| [Flight Most Traveled Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/7/api-docs-and-example/10005) | Where were people flying to the most from London in September 2017?          |
+| [Flight Inspiration Search](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from Madrid in the next months for 400 EUR? |
+| [Flight Cheapest Date Search](https://developers.amadeus.com/self-service/category/203/api-doc/5/api-docs-and-example/10003) | When is the cheapest date to fly to London from Boston? |
+| [Fight Most Searched Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/6/api-docs-and-example/10004) | Which were the most searched destinations from New York in June 2017?            |
+| [Flight Most Booked Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/27/api-docs-and-example/10011) | Where were the most number of bookings made to from Delhi last July?        |
+| [Flight Most Traveled Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/7/api-docs-and-example/10005) | Where were people flying to the most from San Francisco in September 2017?          |
 | [Flight Busiest Traveling Period](https://developers.amadeus.com/self-service/category/203/api-doc/28/api-docs-and-example/10012) | What was the busiest period for Nice based on either arrivals or departures? |
 | [Flight Check-in Links](https://developers.amadeus.com/self-service/category/203/api-doc/8/api-docs-and-example/10006) | What is the URL to my online check-in?                                       |
 | [Airport Nearest Relevant](https://developers.amadeus.com/self-service/category/203/api-doc/9/api-docs-and-example/10007) | What relevant airports are there around a specific location?                 |
 | [Airport & City Search](https://developers.amadeus.com/self-service/category/203/api-doc/10/api-docs-and-example/10008) | Which cities and/or airports start with ‘PA’ characters?                     |
 | [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
-| [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10009) | What are the best hotel offers during my trip to London?   |
+| [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10013) | What are the best hotel offers during my trip to London?   |
 
 ## SDKs
 
