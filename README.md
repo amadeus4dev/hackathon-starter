@@ -48,7 +48,7 @@ Because there is life beyond `curl`.
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
 
-We would be more than happy to receive your `pull requets` :-)
+`pull requets` are always welcome :-)
 
 ## Cheat Sheet
 
@@ -81,3 +81,6 @@ During the hackathon you'll use the `Test environment`, which means that our API
 
 - The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically.
 
+## Contributing
+
+If something is wrong, confusing or you miss information, please let us know. Send your `pull request` and drop us an [email](mailto:developers@amadeus.com).
