@@ -17,10 +17,10 @@ Happy Hacking!
 ## Getting Started
 
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
-2. Fill in the form using a valid email address and click on the `Create account`button. A confirmation email will be sent to the email address you have just registered.
+2. Fill in the form using a valid email address and click on the `Create account` button. A confirmation email will be sent to the email address you have just registered.
 3. Open your mail and click on `Confirm my account`.
 
-What´s next? Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key and make your first API call.
+What's next? Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key and make your first API call.
 
 ## APIs 
 
