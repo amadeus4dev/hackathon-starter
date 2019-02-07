@@ -17,10 +17,10 @@ Happy Hacking!
 ## Getting Started
 
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
-2. Complete the form, using a valid email address and click on `Create account` button. An automatic confirmation email is sent to the email address you registered.
-3. In the confirmation email you receive, click on `Confirm my account`.
+2. Fill in the form using a valid email address and click on the `Create account`button. A confirmation email will be sent to the email address you have just registered.
+3. Open your mail and click on `Confirm my account`.
 
-Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key.
+What´s next? Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key and make your first API call.
 
 ## APIs 
 
@@ -52,7 +52,7 @@ We would be more than happy to receive your `pull requets` :-)
 
 ## Cheat Sheet
 
-We normally bring some printed copies to the hackathons. For your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
+We normally bring some printed copies to the hackathons, but for your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
 
 Let's save the planet!
 
@@ -71,7 +71,7 @@ During the hackathon you'll use the `Test environment`, which means that our API
 
 - [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for `Flight Inspiration Search` and `Flight Cheapest Date Search`.
 
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for `Fight Most [Searched|Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
+- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for `Flight Most [Searched|Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
 
 - The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid airlines for `Flight Check-in Links`.
 
