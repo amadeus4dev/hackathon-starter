@@ -18,6 +18,8 @@ Happy Hacking!
 
 ## Getting Started
 
+First of all, you need to create an account:
+
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
 2. Fill in the form using a valid email address and click on the `Create account` button. A confirmation email will be sent to the email address you have just registered.
 3. Open your mail and click on `Confirm my account`.
