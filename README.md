@@ -24,6 +24,8 @@ Happy Hacking!
 
 What's next? Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key and make your first API call.
 
+The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md) provides deep technical information on how to get a token in order to perform API calls.
+
 ## APIs 
 
 | API | Answers to...                                                                |
