@@ -9,10 +9,10 @@ Happy Hacking!
 - [Getting Started](#getting-started)
 - [APIs](#apis)
 - [SDKs](#sdks)
-- [Cheat Sheet](#cheatsheets)
+- [Cheat Sheet](#cheatsheet)
 - [Postman](#postman)
 - [Examples](#examples)
-- [Datasets](#datasets)
+- [Data Collection](#datacollection)
 - [Contributing](#contributing)
 
 
@@ -73,21 +73,9 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 - All SDK `README` files contain sample codes.
 - You can find [examples](https://developers.amadeus.com/self-service/apis-docs/code-samples) in our Portal
 
-## Datasets
+## Data Collection
 
-During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data:
-
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/flightsearch.md) for `Flight Inspiration Search` and `Flight Cheapest Date Search`.
-
-- [List of Origin and Destinations](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/ti.md) for `Flight Most [Searched|Booked|Traveled] Destinations` and `Flight Busiest Traveling Period`.
-
-- The [following table](https://github.com/amadeus4dev/hackathon-starter/blob/master/datasets/checkinlinks.md) contains a list of valid airlines for `Flight Check-in Links`.
-
-- `Airport Nearest Relevant` & `Airport & City Search` contain data from United States, Spain, United Kingdom, Germany and India.
-
-- `Airline Code Lookup` contains almost all airlines.
-
-- The content of `Hotel Search` comes directly from the hotel providers, so the content might change dynamically.
+During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [Data collection](http://github.com/amadeus4dev/data-collection) repository.
 
 ## Contributing
 
