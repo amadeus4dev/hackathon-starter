@@ -44,7 +44,7 @@ The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mech
 | [Airport & City Search](https://developers.amadeus.com/self-service/category/203/api-doc/10/api-docs-and-example/10008) | Which cities and/or airports start with ‘PA’ characters?                     |
 | [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
 | [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10013) | What are the best hotel offers during my trip to London?   |
-| [Points of Interest](https://developers.amadeus.com/self-service/category/210/api-doc/55/api-docs-and-example/10014) | What can I see in Barcelona?   |
+| [Points of Interest](https://developers.amadeus.com/self-service/category/210/api-doc/55/api-docs-and-example/10014) | What are the coolest places to visit during my stay in Barcelona?  |
 
 ## SDKs
 
