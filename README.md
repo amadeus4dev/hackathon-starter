@@ -55,7 +55,7 @@ Because there is life beyond `curl`.
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
 
-`pull requets` are always welcome :-)
+`pull requests` are always welcome :-)
 
 ## Cheat Sheet
 
