@@ -12,7 +12,7 @@ Happy Hacking!
 - [Cheat Sheet](#cheatsheet)
 - [Postman](#postman)
 - [Examples](#examples)
-- [Data Collection](#datacollection)
+- [Data Collection](#data-collection)
 - [Contributing](#contributing)
 
 
@@ -45,6 +45,7 @@ The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mech
 | [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
 | [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10013) | What are the best hotel offers during my trip to London?   |
 | [Points of Interest](https://developers.amadeus.com/self-service/category/210/api-doc/55/api-docs-and-example/10014) | What are the coolest places to visit during my stay in Barcelona?  |
+| [Flight Choice Prediction](https://developers.amadeus.com/self-service/category/air/api-doc/flight-choice-prediction/api-reference) | What is the probability that the traveler will choose one flight offer over the other?  |
 
 ## SDKs
 
@@ -74,7 +75,7 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 - All SDK `README` files contain sample codes.
 - You can find [examples](https://developers.amadeus.com/self-service/apis-docs/code-samples) in our Portal
 
-## Data Collection
+## Data-Collection
 
 During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [Data collection](http://github.com/amadeus4dev/data-collection) repository.
 
