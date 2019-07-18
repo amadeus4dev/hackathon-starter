@@ -35,7 +35,8 @@ The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mech
 | [Flight Low-fare Search](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where and when I want to fly. What are the best flight deals? |
 | [Flight Inspiration Search](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from Madrid in the next months for 400 EUR? |
 | [Flight Cheapest Date Search](https://developers.amadeus.com/self-service/category/203/api-doc/5/api-docs-and-example/10003) | When is the cheapest date to fly to London from Boston? |
-| [Fight Most Searched Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/6/api-docs-and-example/10004) | Which were the most searched destinations from New York in June 2017?            |
+| [Flight Offers Search](https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-search/api-reference) | I know where and when I want to fly. What are the best flight deals? |
+| [Flight Offers Price](https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-price/api-reference) | I know the best flight deals for my travel criteria. Are those fares still available? What is the price of extra legroom seats? |
 | [Flight Most Booked Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/27/api-docs-and-example/10011) | Where were the most number of bookings made to from Delhi last July?        |
 | [Flight Most Traveled Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/7/api-docs-and-example/10005) | Where were people flying to the most from San Francisco in September 2017?          |
 | [Flight Busiest Traveling Period](https://developers.amadeus.com/self-service/category/203/api-doc/28/api-docs-and-example/10012) | What was the busiest period for Nice based on either arrivals or departures? |
@@ -44,8 +45,10 @@ The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mech
 | [Airport & City Search](https://developers.amadeus.com/self-service/category/203/api-doc/10/api-docs-and-example/10008) | Which cities and/or airports start with ‘PA’ characters?                     |
 | [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
 | [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10013) | What are the best hotel offers during my trip to London?   |
+| [Hotel Ratings](https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-ratings/api-reference) | What travelers think about this hotel?   |
 | [Points of Interest](https://developers.amadeus.com/self-service/category/210/api-doc/55/api-docs-and-example/10014) | What are the coolest places to visit during my stay in Barcelona?  |
 | [Flight Choice Prediction](https://developers.amadeus.com/self-service/category/air/api-doc/flight-choice-prediction/api-reference) | What is the probability that the traveler will choose one flight offer over the other?  |
+| [Trip Parser](https://developers.amadeus.com/self-service/category/trip/api-doc/trip-parser/api-reference) | How do I make my trip information (flight, hotel, car rental, train) from different booking sources: consistent, standardized and consumable by other systems? |
 
 ## SDKs
 
