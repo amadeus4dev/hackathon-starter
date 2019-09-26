@@ -24,7 +24,7 @@ First of all, you need to create an account:
 2. Fill in the form using a valid email address and click on the `Create account` button. A confirmation email will be sent to the email address you have just registered.
 3. Open your mail and click on `Confirm my account`.
 
-What's next? Our [get started guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/getstarted.md) contains detailed information about how to get your API key and make your first API call.
+What's next? Our [get started guide](https://developers.amadeus.com/get-started/category?id=80&durl=335&parentId=NaN) contains detailed information about how to get your API key and make your first API call.
 
 The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md) provides deep technical information on how to get a token in order to perform API calls.
 
