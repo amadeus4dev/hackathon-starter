@@ -60,7 +60,7 @@ Let's save the planet!
 
 If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public postman collection](https://documenter.getpostman.com/view/2672636/RWEcPfuJ).
 
-New to Postman? Don't miss our [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/read?tab=0&category=Technical%20tips&id=573&dateId=4&year=2019) article in our blog.
+New to Postman? Don't miss our [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/how-to-play-with-self-service-apis-with-no-code-using-postman) article in our blog.
 
 ## Examples
 
