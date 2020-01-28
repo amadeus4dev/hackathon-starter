@@ -66,11 +66,11 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 - All SDK `README` files contain sample codes.
 - The following table contains some showcases which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
 
-| Repository | Technology | APIs used |
+| Repository | APIs used | Technologies |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
-| [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | node, vue |
-| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | python, django |
-| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-searcho) | Flight Low-fare Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | python, django |
+| [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Node, Vue.js |
+| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Python, django |
+| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-search) | Flight Low-fare Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
 
 
 ## Data-Collection
@@ -79,7 +79,7 @@ During the hackathon you'll use the `Test environment`, which means that our API
 
 ## FAQ
 
-1. When I go to the portal I see two API catalogs: Self-Service and Enterprise. Which one should I use during the Hackathon?
+* **When I go to the portal I see two API catalogs: Self-Service and Enterprise. Which one should I use during the Hackathon?**
 
 Amadeus for Developers includes two different offers: Self-Service and
 Enterprise, each meeting different customer needs. During the Hackathon you
@@ -87,7 +87,7 @@ will use [Self-Service APIs](https://developers.amadeus.com/self-service/) as
 Enterprise is tailored to companies with scale needs and leading brands in the
 travel industry.
 
-2. When I create an *application* on the portal I see two environments: Testing and Production. What's that?
+* **When I create an *application* on the portal I see two environments: Testing and Production. What's that?**
 
 Testing environment is the default environment for all new applications. This
 is where you will enjoy a fixed free number of free API call quota per month.
