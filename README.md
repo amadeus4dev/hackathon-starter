@@ -13,6 +13,7 @@ Happy Hacking!
 - [Postman](#postman)
 - [Examples](#examples)
 - [Data Collection](#data-collection)
+- [FAQ](#FAQ)
 - [Contributing](#contributing)
 
 
