@@ -30,25 +30,12 @@ The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mech
 
 ## APIs 
 
-| API | Answers to...                                                                |
+| Category | Subcategories |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Flight Low-fare Search](https://developers.amadeus.com/self-service/category/203/api-doc/4/api-docs-and-example/10002) | I know where and when I want to fly. What are the best flight deals? |
-| [Flight Inspiration Search](https://developers.amadeus.com/self-service/category/203/api-doc/3/api-docs-and-example/10001) | Where can I fly from Madrid in the next months for 400 EUR? |
-| [Flight Cheapest Date Search](https://developers.amadeus.com/self-service/category/203/api-doc/5/api-docs-and-example/10003) | When is the cheapest date to fly to London from Boston? |
-| [Flight Offers Search](https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-search/api-reference) | I know where and when I want to fly. What are the best flight deals? |
-| [Flight Offers Price](https://developers.amadeus.com/self-service/category/air/api-doc/flight-offers-price/api-reference) | I know the best flight deals for my travel criteria. Are those fares still available? What is the price of extra legroom seats? |
-| [Flight Most Booked Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/27/api-docs-and-example/10011) | Where were the most number of bookings made to from Delhi last July?        |
-| [Flight Most Traveled Destinations](https://developers.amadeus.com/self-service/category/203/api-doc/7/api-docs-and-example/10005) | Where were people flying to the most from San Francisco in September 2017?          |
-| [Flight Busiest Traveling Period](https://developers.amadeus.com/self-service/category/203/api-doc/28/api-docs-and-example/10012) | What was the busiest period for Nice based on either arrivals or departures? |
-| [Flight Check-in Links](https://developers.amadeus.com/self-service/category/203/api-doc/8/api-docs-and-example/10006) | What is the URL to my online check-in?                                       |
-| [Airport Nearest Relevant](https://developers.amadeus.com/self-service/category/203/api-doc/9/api-docs-and-example/10007) | What relevant airports are there around a specific location?                 |
-| [Airport & City Search](https://developers.amadeus.com/self-service/category/203/api-doc/10/api-docs-and-example/10008) | Which cities and/or airports start with ‘PA’ characters?                     |
-| [Airline Code Lookup](https://developers.amadeus.com/self-service/category/203/api-doc/26/api-docs-and-example/10010) | Which airline has IATA code BA?                                              |
-| [Hotel Search](https://developers.amadeus.com/self-service/category/207/api-doc/11/api-docs-and-example/10013) | What are the best hotel offers during my trip to London?   |
-| [Hotel Ratings](https://developers.amadeus.com/self-service/category/hotel/api-doc/hotel-ratings/api-reference) | What travelers think about this hotel?   |
-| [Points of Interest](https://developers.amadeus.com/self-service/category/210/api-doc/55/api-docs-and-example/10014) | What are the coolest places to visit during my stay in Barcelona?  |
-| [Flight Choice Prediction](https://developers.amadeus.com/self-service/category/air/api-doc/flight-choice-prediction/api-reference) | What is the probability that the traveler will choose one flight offer over the other?  |
-| [Trip Parser](https://developers.amadeus.com/self-service/category/trip/api-doc/trip-parser/api-reference) | How do I make my trip information (flight, hotel, car rental, train) from different booking sources: consistent, standardized and consumable by other systems? |
+| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights and Utils |
+| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights |
+| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location |
+| [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utils |
 
 ## SDKs
 
@@ -58,6 +45,7 @@ Because there is life beyond `curl`.
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
+- [Swift](https://github.com/amadeus4dev/amadeus-swift)
 
 `pull requests` are always welcome :-)
 
@@ -76,11 +64,39 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 ## Examples
 
 - All SDK `README` files contain sample codes.
-- You can find [examples](https://developers.amadeus.com/self-service/apis-docs/code-samples) in our Portal
+- The following table contains some showcases which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
+
+| Repository | Technology | APIs used |
+| ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
+| [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | node, vue |
+| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | python, django |
+| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-searcho) | Flight Low-fare Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | python, django |
+
 
 ## Data-Collection
 
 During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [Data collection](http://github.com/amadeus4dev/data-collection) repository.
+
+## FAQ
+
+1. When I go to the portal I see two API catalogs: Self-Service and Enterprise. Which one should I use during the Hackathon?
+
+Amadeus for Developers includes two different offers: Self-Service and
+Enterprise, each meeting different customer needs. During the Hackathon you
+will use [Self-Service APIs](https://developers.amadeus.com/self-service/) as
+Enterprise is tailored to companies with scale needs and leading brands in the
+travel industry.
+
+2. When I create an *application* on the portal I see two environments: Testing and Production. What's that?
+
+Testing environment is the default environment for all new applications. This
+is where you will enjoy a fixed free number of free API call quota per month.
+When you reach the limit, you will receive an error message. No worries because
+you have enough calls for the Hackathon!
+
+Once you feel that your application is ready to be deployed to the Real World™,
+you will want to move it to Production Environment. There is no need to move to
+Production in a Hackathon unless you are willing to pay!
 
 ## Contributing
 
