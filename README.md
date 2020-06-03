@@ -27,7 +27,7 @@ First of all, you need to create an account:
 
 What's next? Our [get started guide](https://developers.amadeus.com/get-started/category?id=80&durl=335&parentId=NaN) contains detailed information about how to get your API key and make your first API call.
 
-The APIs use [OAuth](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md) provides deep technical information on how to get a token in order to perform API calls.
+The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://github.com/amadeus4dev/developer-guides/blob/master/guides/authorization.md) provides deep technical information on how to get a token in order to perform API calls.
 
 ## APIs 
 
