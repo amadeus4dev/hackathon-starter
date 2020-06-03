@@ -71,7 +71,7 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 | ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
 | [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Node, Vue.js |
 | [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Python, django |
-| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-search) | Flight Low-fare Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
+| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-search) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
 
 
 ## Data-Collection
