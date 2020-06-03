@@ -13,7 +13,7 @@ Happy Hacking!
 - [Postman](#postman)
 - [Examples](#examples)
 - [Data Collection](#data-collection)
-- [FAQ](#FAQ)
+- [FAQ](#faq)
 - [Contributing](#contributing)
 
 
@@ -46,10 +46,10 @@ Because there is life beyond `curl`.
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
-- [Swift](https://github.com/amadeus4dev/amadeus-swift)
-- [Android](https://github.com/amadeus4dev/amadeus-android)
+- [iOS](https://github.com/amadeus4dev/amadeus-ios) (Swift)
+- [Android](https://github.com/amadeus4dev/amadeus-android) (Kotlin)
 
-## Cheat Sheet
+## CheatSheet
 
 We normally bring some printed copies to the hackathons, but for your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
 
@@ -63,15 +63,20 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 
 ## Examples
 
-- All SDK `README` files contain sample codes.
-- The following table contains some showcases which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
+- All SDK `README` files contain API calls samples .
+- You can find all the endpoints in self-contained [code examples](https://github.com/amadeus4dev/amadeus-code-examples), ready to be used.
+- The following table contains some showcases/prototypes which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
 
 | Repository | APIs used | Technologies |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
 | [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Node, Vue.js |
 | [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Python, django |
-| [smart-flight-search](https://github.com/amadeus4dev/smart-flight-search) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
-
+| [amadeus-smart-flight-search-django](https://github.com/amadeus4dev/amadeus-smart-flight-search-django) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
+| [amadeus-airport-city-search-mern](https://github.com/amadeus4dev/amadeus-airport-city-search-mern) | Airport & City Search | Node, express, React |
+| [amadeus-trip-purpose-django](https://github.com/amadeus4dev/amadeus-trip-purpose-django) | Trip Purpose Prediction | Python, django |
+| [amadeus-hotel-search-swift](https://github.com/amadeus4dev/amadeus-hotel-search-swift) | Hotel Search | Swift |
+| [amadeus-hotel-booking-django](https://github.com/amadeus4dev/amadeus-hotel-booking-django) | Hotel Search, Hotel Booking| Python, django |
+| [amadeus-flight-search-wordpress-plugin](https://github.com/amadeus4dev/amadeus-flight-search-wordpress-plugin) | Flight Offers Search| PHP, wordpress |
 
 ## Data-Collection
 
