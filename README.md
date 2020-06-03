@@ -47,8 +47,7 @@ Because there is life beyond `curl`.
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
 - [Swift](https://github.com/amadeus4dev/amadeus-swift)
-
-`pull requests` are always welcome :-)
+- [Android](https://github.com/amadeus4dev/amadeus-android)
 
 ## Cheat Sheet
 
