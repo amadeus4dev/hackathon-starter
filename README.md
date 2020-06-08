@@ -65,10 +65,11 @@ Let's save the planet!
 ## Guides
 - [Build a Hotel Booking Engine](https://developers.amadeus.com/blog/build-hotel-booking-engine-amadeus-api)
 - [Build a Flight Booking Engine](https://developers.amadeus.com/blog/tutorial-booking-engine-amadeus-flight-booking-api)
-- [Build an iOS app](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
+- [Build a Travel iOS app](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
+- [Build a Travel PHP app](https://developers.amadeus.com/blog/how-to-integrate-amadeus-api-in-php)
+- [Build a Travel Python/Django app](https://developers.amadeus.com/blog/amadues-api-django-python-sdk)
 - [Airport & City Search MERN stack](https://developers.amadeus.com/blog/airport-autocomplete-app-with-the-mern-stack)
 - [Airport & City Search with Django + JQuery](https://developers.amadeus.com/blog/django-jquery-ajax-airport-search-autocomplete)
-- [Build a Travel app in PHP](https://developers.amadeus.com/blog/how-to-integrate-amadeus-api-in-php)
 - [Performing multi-city search with Flight Offers Search](https://developers.amadeus.com/blog/multi-city-flight-search-amadeus-api)
 - [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
 
