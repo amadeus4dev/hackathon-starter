@@ -10,6 +10,7 @@ Happy Hacking!
 - [APIs](#apis)
 - [SDKs](#sdks)
 - [Cheat Sheet](#cheatsheet)
+- [Guides](#guides)
 - [Postman](#postman)
 - [Examples](#examples)
 - [Data Collection](#data-collection)
@@ -28,6 +29,12 @@ First of all, you need to create an account:
 What's next? Our [get started guide](https://developers.amadeus.com/get-started/category?id=80&durl=335&parentId=NaN) contains detailed information about how to get your API key and make your first API call.
 
 The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization) provides deep technical information on how to get a token in order to perform API calls.
+
+You can take a look at our introduction videos helping you to get started:
+- [Introduction to Amadeus for Developers](https://www.youtube.com/watch?v=O-WWriCnRco&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=2&t=0s)
+- [Amadeus for Developers Self-Service API Catalog](https://www.youtube.com/watch?v=U9vhUg7G2_4&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=3&t=0s)
+- [Getting Started with Amadeus for Developers Self-Service APIs](https://www.youtube.com/watch?v=NhRcl_Howus&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=4&t=0s)
+- [Amadeus for Developers Hackathon Resources](https://www.youtube.com/watch?v=GE5qk9ksMtQ&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=5&t=0s)
 
 ## APIs 
 
@@ -54,6 +61,16 @@ Because there is life beyond `curl`.
 We normally bring some printed copies to the hackathons, but for your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
 
 Let's save the planet!
+
+## Guides
+- [Build a Hotel Booking Engine](https://developers.amadeus.com/blog/build-hotel-booking-engine-amadeus-api)
+- [Build a Flight Booking Engine](https://developers.amadeus.com/blog/tutorial-booking-engine-amadeus-flight-booking-api)
+- [Build an iOS app](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
+- [Airport & City Search MERN stack](https://developers.amadeus.com/blog/airport-autocomplete-app-with-the-mern-stack)
+- [Airport & City Search with Django + JQuery](https://developers.amadeus.com/blog/django-jquery-ajax-airport-search-autocomplete)
+- [Build a Travel app in PHP](https://developers.amadeus.com/blog/how-to-integrate-amadeus-api-in-php)
+- [Performing multi-city search with Flight Offers Search](https://developers.amadeus.com/blog/multi-city-flight-search-amadeus-api)
+- [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
 
 ## Postman
 
