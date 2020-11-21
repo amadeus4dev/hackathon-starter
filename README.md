@@ -70,6 +70,7 @@ Let's save the planet!
 - [Build a Travel Python/Django app](https://developers.amadeus.com/blog/amadues-api-django-python-sdk)
 - [Airport & City Search MERN stack](https://developers.amadeus.com/blog/airport-autocomplete-app-with-the-mern-stack)
 - [Airport & City Search with Django + JQuery](https://developers.amadeus.com/blog/django-jquery-ajax-airport-search-autocomplete)
+- [Airport autocomplete using jQuery, Ajax and the Amadeus Node SDK](https://developers.amadeus.com/blog/airport-autocomplete-jquery-ajax)
 - [Performing multi-city search with Flight Offers Search](https://developers.amadeus.com/blog/multi-city-flight-search-amadeus-api)
 - [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
 
