@@ -24,9 +24,9 @@ First of all, you need to create an account:
 
 1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
 2. Fill in the form using a valid email address and click on the `Create account` button. A confirmation email will be sent to the email address you have just registered.
-3. Open your mail and click on `Confirm my account`.
+3. Open your mail and click on `Activate your account`.
 
-What's next? Our [get started guide](https://developers.amadeus.com/get-started/category?id=80&durl=335&parentId=NaN) contains detailed information about how to get your API key and make your first API call.
+What's next? Our [get started guide](https://developers.amadeus.com/get-started/get-started-with-self-service-apis-335) contains detailed information about how to get your API key and make your first API call.
 
 The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization) provides deep technical information on how to get a token in order to perform API calls.
 
@@ -40,7 +40,7 @@ You can take a look at our introduction videos helping you to get started:
 
 | Category | Subcategories |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights and Utils |
+| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utils |
 | [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights |
 | [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location |
 | [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utils |
@@ -65,6 +65,7 @@ Let's save the planet!
 ## Guides
 - [Build a Hotel Booking Engine](https://developers.amadeus.com/blog/build-hotel-booking-engine-amadeus-api)
 - [Build a Flight Booking Engine](https://developers.amadeus.com/blog/tutorial-booking-engine-amadeus-flight-booking-api)
+- [Build an Android hotel booking app](https://developers.amadeus.com/blog/android-hotel-booking-app-tutorial)
 - [Build a Travel iOS app](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
 - [Build a Travel PHP app](https://developers.amadeus.com/blog/how-to-integrate-amadeus-api-in-php)
 - [Build a Travel Python/Django app](https://developers.amadeus.com/blog/amadues-api-django-python-sdk)
@@ -72,6 +73,8 @@ Let's save the planet!
 - [Airport & City Search with Django + JQuery](https://developers.amadeus.com/blog/django-jquery-ajax-airport-search-autocomplete)
 - [Performing multi-city search with Flight Offers Search](https://developers.amadeus.com/blog/multi-city-flight-search-amadeus-api)
 - [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
+- [Add a baggage with the flight booking APIs](https://developers.amadeus.com/blog/add-baggage-amadeus-flight-booking-api)
+- [Build airplane seat maps with the SeatMap Display API](https://developers.amadeus.com/blog/seat-selection-amadeus-seat-map-api)
 
 ## Postman
 
@@ -87,15 +90,17 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 
 | Repository | APIs used | Technologies |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
-| [amadeus-flight-booking-node](https://github.com/amadeus4dev/amadeus-flight-booking-node) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Node, Vue.js |
 | [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Python, django |
 | [amadeus-smart-flight-search-django](https://github.com/amadeus4dev/amadeus-smart-flight-search-django) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
 | [amadeus-flight-search-wordpress-plugin](https://github.com/amadeus4dev/amadeus-flight-search-wordpress-plugin) | Flight Offers Search| PHP, wordpress |
+| [amadeus-flight-price-analysis-django](https://github.com/amadeus4dev/amadeus-flight-price-analysis-django) | Flight Offers Search, Flight Price Analysis, Trip Purpose Prediction| Python, django |
 | [amadeus-airport-city-search-mern](https://github.com/amadeus4dev/amadeus-airport-city-search-mern) | Airport & City Search | Node, express, React |
 | [amadeus-trip-purpose-django](https://github.com/amadeus4dev/amadeus-trip-purpose-django) | Trip Purpose Prediction | Python, django |
 | [amadeus-hotel-search-swift](https://github.com/amadeus4dev/amadeus-hotel-search-swift) | Hotel Search | Swift |
 | [amadeus-hotel-booking-django](https://github.com/amadeus4dev/amadeus-hotel-booking-django) | Hotel Search, Hotel Booking| Python, django |
+| [amadeus-hotel-booking-android](https://github.com/amadeus4dev/amadeus-hotel-booking-android) | Hotel Search, Hotel Booking| Kotlin |
 | [amadeus-hotel-area-safety-pois-django](https://github.com/amadeus4dev/amadeus-hotel-area-safety-pois-django) | Hotel Search, Points of Interest, Safe Place| Python, django |
+| [amadeus-async-flight-status](https://github.com/amadeus4dev/amadeus-async-flight-status) | On-Demand Flight Status| Python |
 
 
 ## Data-Collection
