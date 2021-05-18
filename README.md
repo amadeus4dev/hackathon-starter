@@ -76,6 +76,7 @@ Let's save the planet!
 - [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
 - [Add a baggage with the flight booking APIs](https://developers.amadeus.com/blog/add-baggage-amadeus-flight-booking-api)
 - [Build airplane seat maps with the SeatMap Display API](https://developers.amadeus.com/blog/seat-selection-amadeus-seat-map-api)
+- [How to search and book branded fares with Amadeus APIs](https://developers.amadeus.com/blog/search-book-branded-fares-amadeus-api)
 
 ## Postman
 
