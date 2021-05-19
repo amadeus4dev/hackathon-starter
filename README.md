@@ -40,10 +40,10 @@ You can take a look at our introduction videos helping you to get started:
 
 | Category | Subcategories |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utils |
+| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utilities |
 | [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights |
 | [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location |
-| [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utils |
+| [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utilities |
 
 ## SDKs
 
