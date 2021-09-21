@@ -9,7 +9,7 @@ Happy Hacking!
 - [Getting Started](#getting-started)
 - [APIs](#apis)
 - [SDKs](#sdks)
-- [Cheat Sheet](#cheatsheet)
+- [Cheat sheet](#cheatsheet)
 - [Guides](#guides)
 - [Postman](#postman)
 - [Examples](#examples)
@@ -56,9 +56,9 @@ Because there is life beyond `curl`.
 - [iOS](https://github.com/amadeus4dev/amadeus-ios) (Swift)
 - [Android](https://github.com/amadeus4dev/amadeus-android) (Kotlin)
 
-## CheatSheet
+## Cheat sheet
 
-We normally bring some printed copies to the hackathons, but for your convenience, [here](https://github.com/amadeus4dev/hackathon-starter/blob/master/cheatsheets/amadeus4dev.pdf) you have the pdf version.
+We normally bring some printed copies to the hackathons, but for your convenience check out the [web version](https://possible-quilt-2ff.notion.site/Cheat-sheet-e059caf4fcd342b78705f9f3d6f88f1d). 
 
 Let's save the planet!
 
