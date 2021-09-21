@@ -22,7 +22,7 @@ Happy Hacking!
 
 First of all, you need to create an account:
 
-1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account)
+1. Go to [our portal](https://developers.amadeus.com) and click on [register](https://developers.amadeus.com/create-account).
 2. Fill in the form using a valid email address and click on the `Create account` button. A confirmation email will be sent to the email address you have just registered.
 3. Open your mail and click on `Activate your account`.
 
@@ -42,7 +42,7 @@ You can take a look at our introduction videos helping you to get started:
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utilities |
 | [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights |
-| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location |
+| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location, Travel Insight |
 | [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utilities |
 
 ## SDKs
@@ -77,6 +77,9 @@ Let's save the planet!
 - [Add a baggage with the flight booking APIs](https://developers.amadeus.com/blog/add-baggage-amadeus-flight-booking-api)
 - [Build airplane seat maps with the SeatMap Display API](https://developers.amadeus.com/blog/seat-selection-amadeus-seat-map-api)
 - [How to search and book branded fares with Amadeus APIs](https://developers.amadeus.com/blog/search-book-branded-fares-amadeus-api)
+- [How to integrate Amadeus travel APIs in C#](https://developers.amadeus.com/blog/integrate-amadeus-travel-api-csharp)
+- [Building a hotel booking app with Node and React](https://developers.amadeus.com/blog/react-hotel-booking-app-part1)
+- [How to get nearby places using Amadeus APIs in iOS](https://developers.amadeus.com/blog/getting-nearby-places-ios-amadeus-api)
 
 ## Postman
 
@@ -86,13 +89,13 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 
 ## Examples
 
-- All SDK `README` files contain API calls samples .
+- All SDK `README` files contain API calls samples.
 - You can find all the endpoints in self-contained [code examples](https://github.com/amadeus4dev/amadeus-code-examples), ready to be used.
 - The following table contains some showcases/prototypes which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
 
 | Repository | APIs used | Technologies |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
-| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search | Python, django |
+| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search, Travel Restrictions | Python, django |
 | [amadeus-smart-flight-search-django](https://github.com/amadeus4dev/amadeus-smart-flight-search-django) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
 | [amadeus-flight-search-wordpress-plugin](https://github.com/amadeus4dev/amadeus-flight-search-wordpress-plugin) | Flight Offers Search| PHP, wordpress |
 | [amadeus-flight-price-analysis-django](https://github.com/amadeus4dev/amadeus-flight-price-analysis-django) | Flight Offers Search, Flight Price Analysis, Trip Purpose Prediction| Python, django |
@@ -103,6 +106,8 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 | [amadeus-hotel-booking-android](https://github.com/amadeus4dev/amadeus-hotel-booking-android) | Hotel Search, Hotel Booking| Kotlin |
 | [amadeus-hotel-area-safety-pois-django](https://github.com/amadeus4dev/amadeus-hotel-area-safety-pois-django) | Hotel Search, Points of Interest, Safe Place| Python, django |
 | [amadeus-async-flight-status](https://github.com/amadeus4dev/amadeus-async-flight-status) | On-Demand Flight Status| Python |
+| [amadeus-travel-restrictions-node](https://github.com/amadeus4dev/amadeus-travel-restrictions-node) | Travel Restrictions | Node, express |
+
 
 
 ## Data-Collection
@@ -119,16 +124,16 @@ will use [Self-Service APIs](https://developers.amadeus.com/self-service/) as
 Enterprise is tailored to companies with scale needs and leading brands in the
 travel industry.
 
-* **When I create an *application* on the portal I see two environments: Testing and Production. What's that?**
+* **When I create an *application* on the portal I see two environments: Test and Production. What's that?**
 
-Testing environment is the default environment for all new applications. This
+The Test environment is the default environment for all new applications. This
 is where you will enjoy a fixed free number of free API call quota per month.
 When you reach the limit, you will receive an error message. No worries because
 you have enough calls for the Hackathon!
 
 Once you feel that your application is ready to be deployed to the Real World™,
-you will want to move it to Production Environment. There is no need to move to
-Production in a Hackathon unless you are willing to pay!
+you will want to move it to the Production environment. There is no need to move to
+production in a Hackathon unless you are willing to pay!
 
 ## Contributing
 
