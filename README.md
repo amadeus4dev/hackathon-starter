@@ -137,4 +137,4 @@ production in a Hackathon unless you are willing to pay!
 
 ## Contributing
 
-If something is wrong, confusing or you miss information, please let us know. Send your `pull request` or drop us an [email](mailto:developers@amadeus.com).
+If something is wrong, confusing or you miss information, please let us know. Send your `pull request` or create an `issue` in the repository. 
