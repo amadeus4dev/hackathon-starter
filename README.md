@@ -32,7 +32,7 @@ The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mec
 
 You can take a look at our introduction videos helping you to get started:
 - [Introduction to Amadeus for Developers](https://www.youtube.com/watch?v=O-WWriCnRco&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=2&t=0s)
-- [Amadeus for Developers Self-Service API Catalog](https://www.youtube.com/watch?v=U9vhUg7G2_4&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=3&t=0s)
+- [Amadeus for Developers Self-Service API Catalog](https://www.youtube.com/watch?v=U9vhUg7G2_4&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=3&t=0s) 
 - [Getting Started with Amadeus for Developers Self-Service APIs](https://www.youtube.com/watch?v=NhRcl_Howus&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=4&t=0s)
 - [Amadeus for Developers Hackathon Resources](https://www.youtube.com/watch?v=GE5qk9ksMtQ&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=5&t=0s)
 
@@ -40,10 +40,11 @@ You can take a look at our introduction videos helping you to get started:
 
 | Category | Subcategories |
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
+| [Covid-19 & Travel Safety](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety) | Covid-19, Location Risk |
 | [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utilities |
-| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights |
-| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location, Travel Insight |
-| [Trip](https://developers.amadeus.com/self-service/category/trip) | Artificial Intelligence and Utilities |
+| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights and Utility |
+| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location and Travel Insight |
+| [Trip](https://developers.amadeus.com/self-service/category/trip) | Utilities and Artificial Intelligence |
 
 ## SDKs
 
@@ -53,6 +54,7 @@ Because there is life beyond `curl`.
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 - [Java](https://github.com/amadeus4dev/amadeus-java)
+- [.NET](https://github.com/amadeus4dev/amadeus-dotnet)
 - [iOS](https://github.com/amadeus4dev/amadeus-ios) (Swift)
 - [Android](https://github.com/amadeus4dev/amadeus-android) (Kotlin)
 
