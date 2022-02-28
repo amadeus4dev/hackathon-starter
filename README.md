@@ -64,7 +64,8 @@ We normally bring some printed copies to the hackathons, but for your convenienc
 
 Let's save the planet!
 
-## Guides
+## Tutorials & Guides 
+
 - [Build a Hotel Booking Engine](https://developers.amadeus.com/blog/build-hotel-booking-engine-amadeus-api)
 - [Build a Flight Booking Engine](https://developers.amadeus.com/blog/tutorial-booking-engine-amadeus-flight-booking-api)
 - [Build an Android hotel booking app](https://developers.amadeus.com/blog/android-hotel-booking-app-tutorial)
@@ -82,6 +83,11 @@ Let's save the planet!
 - [How to integrate Amadeus travel APIs in C#](https://developers.amadeus.com/blog/integrate-amadeus-travel-api-csharp)
 - [Building a hotel booking app with Node and React](https://developers.amadeus.com/blog/react-hotel-booking-app-part1)
 - [How to get nearby places using Amadeus APIs in iOS](https://developers.amadeus.com/blog/getting-nearby-places-ios-amadeus-api)
+- [Flight booking app in Node](https://developers.amadeus.com/blog/flight-booking-app-angular-1)
+- [iOS hotel booking app with React Native](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
+- [How to build an aircraft SeatMap in React](https://developers.amadeus.com/blog/react-seat-map)
+- [Build a flight search form in Boostrap](https://developers.amadeus.com/blog/bootstrap-flight-search-form-part-1)
+- [Flight booking app in Java](https://developers.amadeus.com/blog/flight-booking-application-java-spring-react-1)
 
 ## Postman
 
