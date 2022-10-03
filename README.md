@@ -10,7 +10,7 @@ Happy Hacking!
 - [APIs](#apis)
 - [SDKs](#sdks)
 - [Cheat sheet](#cheatsheet)
-- [Guides](#guides)
+- [Guides](#tutorials-and-guides)
 - [Postman](#postman)
 - [Examples](#examples)
 - [Data Collection](#data-collection)
@@ -54,13 +54,13 @@ Because there is life beyond `curl`.
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 
-## Cheat sheet
+## Cheatsheet
 
 We normally bring some printed copies to the hackathons, but for your convenience check out the [web version](https://possible-quilt-2ff.notion.site/Cheat-sheet-e059caf4fcd342b78705f9f3d6f88f1d). 
 
 Let's save the planet!
 
-## Tutorials & guides
+## Tutorials and guides
 
 In the [Developer Guides](https://amadeus4dev.github.io/developer-guides/examples/prototypes/) you can find tutorials to help you make the most of our APIs. 
 
