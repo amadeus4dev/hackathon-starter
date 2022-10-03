@@ -60,7 +60,7 @@ We normally bring some printed copies to the hackathons, but for your convenienc
 
 Let's save the planet!
 
-## Tutorials & Guides
+## Tutorials & guides
 
 In the [developer guides](https://amadeus4dev.github.io/developer-guides/examples/prototypes/) you can find tutorials to help you make the most of our APIs. 
 
