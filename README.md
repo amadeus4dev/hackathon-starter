@@ -76,7 +76,7 @@ New to Postman? Don't miss our [How to play with Self-Service APIs with no code]
 
 Explore all the self-contained [code examples](https://amadeus4dev.github.io/developer-guides/examples/code-example/) as well as [prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/). 
 
-## Data-Collection
+## Data collection
 
 During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [data collection](http://github.com/amadeus4dev/data-collection) repository.
 
