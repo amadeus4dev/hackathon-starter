@@ -78,7 +78,7 @@ Explore all the self-contained [code examples](https://amadeus4dev.github.io/dev
 
 ## Data collection
 
-During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [data collection](http://github.com/amadeus4dev/data-collection) repository.
+During the hackathon you'll use the `Test environment`, which means that our APIs are using cached data. You can find which data is available on the [data collection](http://github.com/amadeus4dev/data-collection) repository.
 
 ## FAQ
 
