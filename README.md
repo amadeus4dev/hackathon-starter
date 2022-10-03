@@ -62,9 +62,9 @@ Let's save the planet!
 
 ## Tutorials & Guides
 
-In the [developer guides](https://amadeus4dev.github.io/developer-guides/examples/prototypes/) you can find information to help you make the most of our APIs. 
+In the [developer guides](https://amadeus4dev.github.io/developer-guides/examples/prototypes/) you can find tutorials to help you make the most of our APIs. 
 
-You can also find a list of [blog articles](https://developers.amadeus.com/blog/category/tutorials?page=1&count=5) to help you build travel apps with several Amadeus APIs and technologies.
+You can also find a list of [blog articles](https://developers.amadeus.com/blog/category/tutorials?page=1&count=5) and [videos](https://www.youtube.com/channel/UCwI48vMwtiE-hra2RAtk1PQ) to help you build travel apps with several Amadeus APIs and technologies.
 
 ## Postman
 
