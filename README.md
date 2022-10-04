@@ -54,7 +54,7 @@ Because there is life beyond `curl`.
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 
-## Cheatsheet
+## Cheat sheet
 
 We normally bring some printed copies to the hackathons, but for your convenience check out the [web version](https://possible-quilt-2ff.notion.site/Cheat-sheet-e059caf4fcd342b78705f9f3d6f88f1d). 
 
