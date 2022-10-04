@@ -9,8 +9,8 @@ Happy Hacking!
 - [Getting Started](#getting-started)
 - [APIs](#apis)
 - [SDKs](#sdks)
-- [Cheat sheet](#cheatsheet)
-- [Guides](#guides)
+- [Cheat sheet](#cheat-sheet)
+- [Guides](#tutorials-and-guides)
 - [Postman](#postman)
 - [Examples](#examples)
 - [Data Collection](#data-collection)
@@ -42,7 +42,7 @@ You can take a look at our introduction videos helping you to get started:
 | ----------------------------------------------- | ---------------------------------------------------------------------------- |
 | [Covid-19 & Travel Safety](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety) | Covid-19, Location Risk |
 | [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utilities |
-| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights and Utility |
+| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights and Utiliies |
 | [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location and Travel Insight |
 | [Trip](https://developers.amadeus.com/self-service/category/trip) | Utilities and Artificial Intelligence |
 
@@ -53,10 +53,6 @@ Because there is life beyond `curl`.
 - [Python](https://github.com/amadeus4dev/amadeus-python)
 - [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
-- [Java](https://github.com/amadeus4dev/amadeus-java)
-- [.NET](https://github.com/amadeus4dev/amadeus-dotnet)
-- [iOS](https://github.com/amadeus4dev/amadeus-ios) (Swift)
-- [Android](https://github.com/amadeus4dev/amadeus-android) (Kotlin)
 
 ## Cheat sheet
 
@@ -64,63 +60,25 @@ We normally bring some printed copies to the hackathons, but for your convenienc
 
 Let's save the planet!
 
-## Tutorials & Guides 
+## Tutorials and guides
 
-- [Build a Hotel Booking Engine](https://developers.amadeus.com/blog/build-hotel-booking-engine-amadeus-api)
-- [Build a Flight Booking Engine](https://developers.amadeus.com/blog/tutorial-booking-engine-amadeus-flight-booking-api)
-- [Build an Android hotel booking app](https://developers.amadeus.com/blog/android-hotel-booking-app-tutorial)
-- [Build a Travel iOS app](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
-- [Build a Travel PHP app](https://developers.amadeus.com/blog/how-to-integrate-amadeus-api-in-php)
-- [Build a Travel Python/Django app](https://developers.amadeus.com/blog/amadues-api-django-python-sdk)
-- [Airport & City Search MERN stack](https://developers.amadeus.com/blog/airport-autocomplete-app-with-the-mern-stack)
-- [Airport & City Search with Django + JQuery](https://developers.amadeus.com/blog/django-jquery-ajax-airport-search-autocomplete)
-- [Airport autocomplete using jQuery, Ajax and the Amadeus Node SDK](https://developers.amadeus.com/blog/airport-autocomplete-jquery-ajax)
-- [Performing multi-city search with Flight Offers Search](https://developers.amadeus.com/blog/multi-city-flight-search-amadeus-api)
-- [Fake PNR dataset for machine learning](https://developers.amadeus.com/blog/free-fake-pnr-sample-data)
-- [Add a baggage with the flight booking APIs](https://developers.amadeus.com/blog/add-baggage-amadeus-flight-booking-api)
-- [Build airplane seat maps with the SeatMap Display API](https://developers.amadeus.com/blog/seat-selection-amadeus-seat-map-api)
-- [How to search and book branded fares with Amadeus APIs](https://developers.amadeus.com/blog/search-book-branded-fares-amadeus-api)
-- [How to integrate Amadeus travel APIs in C#](https://developers.amadeus.com/blog/integrate-amadeus-travel-api-csharp)
-- [Building a hotel booking app with Node and React](https://developers.amadeus.com/blog/react-hotel-booking-app-part1)
-- [How to get nearby places using Amadeus APIs in iOS](https://developers.amadeus.com/blog/getting-nearby-places-ios-amadeus-api)
-- [Flight booking app in Node](https://developers.amadeus.com/blog/flight-booking-app-angular-1)
-- [iOS hotel booking app with React Native](https://developers.amadeus.com/blog/build-ios-app-with-amadeus-apis-swift-sdk)
-- [How to build an aircraft SeatMap in React](https://developers.amadeus.com/blog/react-seat-map)
-- [Build a flight search form in Boostrap](https://developers.amadeus.com/blog/bootstrap-flight-search-form-part-1)
-- [Flight booking app in Java](https://developers.amadeus.com/blog/flight-booking-application-java-spring-react-1)
+In the [Developer Guides](https://amadeus4dev.github.io/developer-guides/examples/prototypes/) you can find tutorials to help you make the most of our APIs. 
+
+You can also find a list of [blog articles](https://developers.amadeus.com/blog/category/tutorials?page=1&count=5) and [videos](https://www.youtube.com/channel/UCwI48vMwtiE-hra2RAtk1PQ) to help you build travel apps with several Amadeus APIs and technologies.
 
 ## Postman
 
-If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public postman collection](https://documenter.getpostman.com/view/2672636/RWEcPfuJ).
+If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public Postman workspace](https://www.postman.com/amadeus4dev/workspace/amadeus-for-developers-s-public-workspace/collection/2672636-27471449-d2ca-a8c4-1399-6b0cfbddd079).
 
-New to Postman? Don't miss our [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/how-to-play-with-self-service-apis-with-no-code-using-postman) article in our blog.
+New to Postman? Don't miss the [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/how-to-play-with-self-service-apis-with-no-code-using-postman) article in our blog.
 
 ## Examples
 
-- All SDK `README` files contain API calls samples.
-- You can find all the endpoints in self-contained [code examples](https://github.com/amadeus4dev/amadeus-code-examples), ready to be used.
-- The following table contains some showcases/prototypes which integrate some of the [Self-Service APIs](https://developers.amadeus.com/self-service/):
+Explore all the self-contained [code examples](https://amadeus4dev.github.io/developer-guides/examples/code-example/) as well as [prototypes](https://amadeus4dev.github.io/developer-guides/examples/prototypes/). 
 
-| Repository | APIs used | Technologies |
-| ----------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------|
-| [amadeus-flight-booking-django](https://github.com/amadeus4dev/amadeus-flight-booking-django) | Flight Offers Search, Flight Offers Price, Flight Create Order, Airport & City Search, Travel Restrictions | Python, django |
-| [amadeus-smart-flight-search-django](https://github.com/amadeus4dev/amadeus-smart-flight-search-django) | Flight Offers Search, Flight Choice Prediction, Trip Purpose Prediction and Airport & City Search | Python, django |
-| [amadeus-flight-search-wordpress-plugin](https://github.com/amadeus4dev/amadeus-flight-search-wordpress-plugin) | Flight Offers Search| PHP, wordpress |
-| [amadeus-flight-price-analysis-django](https://github.com/amadeus4dev/amadeus-flight-price-analysis-django) | Flight Offers Search, Flight Price Analysis, Trip Purpose Prediction| Python, django |
-| [amadeus-airport-city-search-mern](https://github.com/amadeus4dev/amadeus-airport-city-search-mern) | Airport & City Search | Node, express, React |
-| [amadeus-trip-purpose-django](https://github.com/amadeus4dev/amadeus-trip-purpose-django) | Trip Purpose Prediction | Python, django |
-| [amadeus-hotel-search-swift](https://github.com/amadeus4dev/amadeus-hotel-search-swift) | Hotel Search | Swift |
-| [amadeus-hotel-booking-django](https://github.com/amadeus4dev/amadeus-hotel-booking-django) | Hotel Search, Hotel Booking| Python, django |
-| [amadeus-hotel-booking-android](https://github.com/amadeus4dev/amadeus-hotel-booking-android) | Hotel Search, Hotel Booking| Kotlin |
-| [amadeus-hotel-area-safety-pois-django](https://github.com/amadeus4dev/amadeus-hotel-area-safety-pois-django) | Hotel Search, Points of Interest, Safe Place| Python, django |
-| [amadeus-async-flight-status](https://github.com/amadeus4dev/amadeus-async-flight-status) | On-Demand Flight Status| Python |
-| [amadeus-travel-restrictions-node](https://github.com/amadeus4dev/amadeus-travel-restrictions-node) | Travel Restrictions | Node, express |
+## Data collection
 
-
-
-## Data-Collection
-
-During the hackathon you'll use the `Test environment`, which means that our APIs are using mostly cache data. You can find which data is available on the [Data collection](http://github.com/amadeus4dev/data-collection) repository.
+During the hackathon you'll use the `Test environment`, which means that our APIs are using cached data. You can find which data is available on the [data collection](http://github.com/amadeus4dev/data-collection) repository.
 
 ## FAQ
 
