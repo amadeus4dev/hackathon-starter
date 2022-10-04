@@ -70,7 +70,7 @@ You can also find a list of [blog articles](https://developers.amadeus.com/blog/
 
 If you love [Postman](https://www.getpostman.com/) as we do, you'll be glad to see [our public Postman workspace](https://www.postman.com/amadeus4dev/workspace/amadeus-for-developers-s-public-workspace/collection/2672636-27471449-d2ca-a8c4-1399-6b0cfbddd079).
 
-New to Postman? Don't miss our [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/how-to-play-with-self-service-apis-with-no-code-using-postman) article in our blog.
+New to Postman? Don't miss the [How to play with Self-Service APIs with no code](https://developers.amadeus.com/blog/how-to-play-with-self-service-apis-with-no-code-using-postman) article in our blog.
 
 ## Examples
 
