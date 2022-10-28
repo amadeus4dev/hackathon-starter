@@ -36,13 +36,6 @@ You can take a look at our introduction videos helping you to get started:
 - Getting Started with Amadeus for Developers Self-Service APIs in [english](https://www.youtube.com/watch?v=NhRcl_Howus&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=4&t=0s) and [portuguese](https://www.youtube.com/watch?v=LVONIJk-jzk&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=3&t=113s)
 - Amadeus for Developers Hackathon Resources in [english](https://www.youtube.com/watch?v=GE5qk9ksMtQ&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=5&t=0s) and [portuguese](https://www.youtube.com/watch?v=jso_MeEqL7M&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=4&t=118s)
 
-You can also find the resources in Portuguese: 
-
-- [Introduction to Amadeus for Developers](https://www.youtube.com/watch?v=O-WWriCnRco&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=2&t=0s)
-- [Amadeus for Developers Self-Service API Catalog](https://www.youtube.com/watch?v=U9vhUg7G2_4&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=3&t=0s) 
-- [Getting Started with Amadeus for Developers Self-Service APIs](https://www.youtube.com/watch?v=NhRcl_Howus&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=4&t=0s)
-- [Amadeus for Developers Hackathon Resources](https://www.youtube.com/watch?v=GE5qk9ksMtQ&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=5&t=0s)
-
 
 ## APIs 
 
