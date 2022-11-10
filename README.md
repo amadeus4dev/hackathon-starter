@@ -52,7 +52,7 @@ You can take a look at our introduction videos helping you to get started:
 Because there is life beyond `curl`.
 
 - [Python](https://github.com/amadeus4dev/amadeus-python)
-- [Ruby](https://github.com/amadeus4dev/amadeus-ruby)
+- [Java](https://github.com/amadeus4dev/amadeus-java)
 - [Node](https://github.com/amadeus4dev/amadeus-node)
 
 ## Cheat sheet
