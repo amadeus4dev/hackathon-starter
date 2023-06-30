@@ -28,24 +28,18 @@ First of all, you need to create an account:
 
 What's next? Our [get started guide](https://developers.amadeus.com/get-started/get-started-with-self-service-apis-335) contains detailed information about how to get your API key and make your first API call.
 
-The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://developers.amadeus.com/self-service/apis-docs/guides/authorization) provides deep technical information on how to get a token in order to perform API calls.
+The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mechanism. The [authorization guide](https://amadeus4dev.github.io/developer-guides/API-Keys/authorization/) provides deep technical information on how to get a token in order to perform API calls.
 
-You can take a look at our introduction videos helping you to get started:
-- Introduction to Amadeus for Developers in [english](https://www.youtube.com/watch?v=O-WWriCnRco&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=2&t=0s) and [portuguese](https://www.youtube.com/watch?v=W7cYZ0FG6E8&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=1&t=116s)
-- Amadeus for Developers Self-Service API Catalog in [english](https://www.youtube.com/watch?v=U9vhUg7G2_4&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=3&t=0s) and [portuguese](https://www.youtube.com/watch?v=_fXaFuUgOTg&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=2&t=3s)
-- Getting Started with Amadeus for Developers Self-Service APIs in [english](https://www.youtube.com/watch?v=NhRcl_Howus&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=4&t=0s) and [portuguese](https://www.youtube.com/watch?v=LVONIJk-jzk&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=3&t=113s)
-- Amadeus for Developers Hackathon Resources in [english](https://www.youtube.com/watch?v=GE5qk9ksMtQ&list=PLBehidtj-OipoBNqwOIGVJ1L_pSnJADXi&index=5&t=0s) and [portuguese](https://www.youtube.com/watch?v=jso_MeEqL7M&list=PLBehidtj-OirPGBdC-KUXt7pYWI22q1un&index=4&t=118s)
+## APIs
 
-
-## APIs 
-
-| Category | Subcategories |
-| ----------------------------------------------- | ---------------------------------------------------------------------------- |
-| [Covid-19 & Travel Safety](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety) | Covid-19, Location Risk |
-| [Air](https://developers.amadeus.com/self-service/category/air) | Search, Booking, Artificial Intelligence, Travel Insights, Schedule and Utilities |
-| [Hotel](https://developers.amadeus.com/self-service/category/hotel) | Search, Booking, Travel Insights and Utiliies |
-| [Destination Content](https://developers.amadeus.com/self-service/category/destination-content) | Location and Travel Insight |
-| [Trip](https://developers.amadeus.com/self-service/category/trip) | Utilities and Artificial Intelligence |
+| Category
+| ----------------------------------------------- 
+| [Covid-19 & Travel Safety](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety)
+| [Flights](https://developers.amadeus.com/self-service/category/flights)
+| [Hotels](https://developers.amadeus.com/self-service/category/hotels) 
+| [Cars and Transfers](https://developers.amadeus.com/self-service/category/cars-and-transfers) 
+| [Itinerary management](https://developers.amadeus.com/self-service/category/itinerary-management)
+| [Market insights](https://developers.amadeus.com/self-service/category/market-insights)
 
 ## SDKs
 
