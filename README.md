@@ -35,7 +35,7 @@ The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mec
 | Category
 | ----------------------------------------------- 
 | [Flights](https://developers.amadeus.com/self-service/category/flights)
-| [Destination Experience](https://developers.amadeus.com/self-service/category/destination-experiences)
+| [Destination Experiences](https://developers.amadeus.com/self-service/category/destination-experiences)
 | [Cars and Transfers](https://developers.amadeus.com/self-service/category/cars-and-transfers) 
 | [Market insights](https://developers.amadeus.com/self-service/category/market-insights)
 | [Hotels](https://developers.amadeus.com/self-service/category/hotels) 
