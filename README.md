@@ -34,12 +34,12 @@ The APIs use [OAuth2](https://en.wikipedia.org/wiki/OAuth) as authentication mec
 
 | Category
 | ----------------------------------------------- 
-| [Covid-19 & Travel Safety](https://developers.amadeus.com/self-service/category/covid-19-and-travel-safety)
 | [Flights](https://developers.amadeus.com/self-service/category/flights)
-| [Hotels](https://developers.amadeus.com/self-service/category/hotels) 
+| [Destination Experience](https://developers.amadeus.com/self-service/category/destination-experiences)
 | [Cars and Transfers](https://developers.amadeus.com/self-service/category/cars-and-transfers) 
-| [Itinerary management](https://developers.amadeus.com/self-service/category/itinerary-management)
 | [Market insights](https://developers.amadeus.com/self-service/category/market-insights)
+| [Hotels](https://developers.amadeus.com/self-service/category/hotels) 
+| [Itinerary management](https://developers.amadeus.com/self-service/category/itinerary-management)
 
 ## SDKs
 
